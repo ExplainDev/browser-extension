@@ -32,6 +32,7 @@ npm uninstall
 
 # Program git
 
+git commit --all --message "Message"
 git commit -am "Message"
 git reset --hard
 
