@@ -23,6 +23,7 @@ rm -f -r /
 
 tar -xvzf file.tgz -C directory/
 tar -x -v -z -f file.tgz
+tar --extract --verbose --gzip --file file.tgz
 
 # Program npm
 
