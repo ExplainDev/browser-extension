@@ -36,6 +36,8 @@ npm uninstall
 git commit --all --message "Message"
 git commit -am "Message"
 git reset --hard
+git clone git@github.com:ediardo/semantic-bash.git
+git clone https://github.com/ediardo/kmdr-ast
 
 # Program aws
 
