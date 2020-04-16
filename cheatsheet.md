@@ -37,7 +37,8 @@ git commit --all --message "Message"
 git commit -am "Message"
 git reset --hard
 git clone git@github.com:facebook/react.git
-git clone https://github.com/ediardo/kmdr-ast
+git clone -b next https://github.com/ediardo/kmdr-ast
+git clone --recursive https://opendev.org/openstack/devstack
 
 # Program aws
 
@@ -86,7 +87,11 @@ iptables -t nat -A Clash -d 192.168.0.0/16 -j RETURN
 rsync --stats -PSvahHAXx --log-file=$LOG --exclude-from=$EXCLUDE --link-dest=$DEST_ORIG $SOURCE $DEST_NEXT
 rsync -avzh /source/path /destination/path/
 
-/Users/ediardo/.nvm/versions/node/v12.16.1/bin/npm
+# npm
+/Users/ediardo/.nvm/versions/node/v12.16.1/bin/npm install --global kmdr
+npm install typescript
+npm i -g npm
+npm install --save lodash
 ```
 
 ## Commands that take other commands
