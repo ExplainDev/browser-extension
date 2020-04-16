@@ -92,6 +92,8 @@ rsync -avzh /source/path /destination/path/
 npm install typescript
 npm i -g npm
 npm install --save lodash
+npm install chalk yargs inquirer
+npm install ansi-regex
 ```
 
 ## Commands that take other commands
