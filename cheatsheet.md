@@ -38,7 +38,7 @@ git commit -am "Message"
 git reset --hard
 git clone git@github.com:facebook/react.git
 git clone -b next https://github.com/ediardo/kmdr-ast
-git clone --recursive https://opendev.org/openstack/devstack
+git clone -q https://opendev.org/openstack/devstack
 
 # Program aws
 
