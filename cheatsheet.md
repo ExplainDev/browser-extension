@@ -1,12 +1,9 @@
 # Get command explanations from kmdr.sh
 
-## Simple commands
-
 ```bash
-# Program ls
-ls -l
 ls -al
-ls -ltr
+git commit -m "Initial Commit"
+npm install -g kmdr
 
 # Program grep
 
