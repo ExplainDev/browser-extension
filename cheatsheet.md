@@ -118,6 +118,8 @@ rm || ls || tar && cat
 cat file.tx | grep "error"
 
 cd dir/ ; ls -l ; rm file.txt
+
+history | awk '{print $2}' | sort | uniq -c | sort -nr | head -5
 ```
 
 ## Conditional Statements
