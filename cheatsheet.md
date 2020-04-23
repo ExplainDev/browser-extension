@@ -15,7 +15,6 @@ grep -i "info" .
 rm --recursive --force
 rm -f -r /
 rm -rf /
-rm -recursive -force # error due to single `-`
 
 # Program tar
 
