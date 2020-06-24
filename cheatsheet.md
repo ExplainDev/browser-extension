@@ -14,7 +14,7 @@ grep -i "info" .
 
 rm --recursive --force
 rm -f -r /
-rm -rf /
+rm -rf node_modules/
 
 # Program tar
 
