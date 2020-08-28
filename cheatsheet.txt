@@ -184,3 +184,61 @@ sudo crontab -e -u cooper
 - https://git-scm.com/book/en/v2/Getting-Started-Installing-Git - Installation Instructions for git
 - https://docs.docker.com/install/linux/docker-ce/ubuntu/ - Good examples of package maners and docker commands
 - https://devhints.io/ - More Cheatsheets
+
+
+
+git clone -q git@github.com:facebook/react.git
+
+npm install kmdr --global
+
+sudo crontab -e -u cooper
+
+ls -alh > allfiles.txt
+
+# Variable Assignment
+NODE_ENV=production npm install
+FILES=$(ls)
+CURRENT_DATE=`date`
+
+# Loop structures
+for i in 1 2 3 4 5
+do
+   echo "Welcome $i times"
+done
+
+# Functions
+test() {
+  ls # show files
+  rm -rf . # delete all files and directories
+}
+
+function anotherTest {
+  ls # show files
+  rm -rf . # delete all files and directories
+}
+
+# Conditional Statements
+if [ $1 -gt 100 ]
+then
+    echo Hey that\'s a large number.
+    pwd
+fi
+
+[ -f /etc/resolv.conf ] && echo "$FILE exist" || echo "$FILE does not exist"
+
+# Loop structures
+for i in 1 2 3 4 5
+do
+   echo "Welcome $i times"
+done
+
+# List of commands
+ls && rm
+
+rm || ls || tar && cat
+
+cat file.tx | grep "error"
+
+cd dir/ ; ls -l ; rm file.txt
+
+history | awk '{print $2}' | sort | uniq -c | sort -nr | head -5
