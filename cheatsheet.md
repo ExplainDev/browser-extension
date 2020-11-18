@@ -2,6 +2,7 @@
 
 ```bash
 ls -al
+ls -alh
 git commit -m "Initial Commit"
 npm install -g kmdr
 
