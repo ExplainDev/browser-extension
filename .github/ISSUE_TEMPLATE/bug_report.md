@@ -1,7 +1,7 @@
 ---
 name: Bug report
 about: For things that appear to be an unintended error, flaw or fault leading to
-  an incorrect or unexpected result. Includes missing or incorrect descriptions.
+  an incorrect or unexpected result.
 title: ''
 labels: ''
 assignees: ''
