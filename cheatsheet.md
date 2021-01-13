@@ -95,7 +95,7 @@ npm install ansi-regex
 
 ## Commands that take other commands
 
-```
+```bash
 # Program sudo
 
 sudo rm -rf
