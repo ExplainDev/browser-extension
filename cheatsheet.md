@@ -210,14 +210,14 @@ $ git
 
 ## Declaration commands
 
-```
+```sh
 # With declare
 export PATH=$PATH:/another/path
 ```
 
 ## Subshell
 
-```
+```sh
 (ls && rm)
 ```
 # Cool websites
