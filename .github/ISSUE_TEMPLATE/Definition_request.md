@@ -8,6 +8,9 @@ assignees: ''
 ---
 **To reproduce**
 Paste a command that includes the attribute that needs attention.
+```bash
+Replace this sentence with the command
+```
 
 **Describe the problem with what is currently being rendered**
 [ ]Missing
