@@ -9,91 +9,138 @@ Want to know what Kmdr Browser Extension does in the wild? Check out these links
 
 #### Repositories
 
-https://github.com/kommandr/kmdr-cli
-https://github.com/nvm-sh/nvm
+- https://github.com/kommandr/kmdr-cli
+- https://github.com/nvm-sh/nvm
 
 #### Gists
 
-https://gist.github.com/ediardo/cbdebe45f5ebd4688ead53b3b0055b3f
+- https://gist.github.com/ediardo/cbdebe45f5ebd4688ead53b3b0055b3f
 
 #### Docs
 
-https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
-https://docs.github.com/en/free-pro-team@latest/packages/guides/configuring-docker-for-use-with-github-packages
+- https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
+- https://docs.github.com/en/free-pro-team@latest/packages/guides/configuring-docker-for-use-with-github-packages
 
 ## Q&A
 
 ### StackOverflow
 
-https://stackoverflow.com/questions/1378274/in-a-bash-script-how-can-i-exit-the-entire-script-if-a-certain-condition-occurs
-https://stackoverflow.com/questions/876239/how-to-redirect-and-append-both-stdout-and-stderr-to-a-file-with-bash
+- https://stackoverflow.com/questions/1378274/in-a-bash-script-how-can-i-exit-the-entire-script-if-a-certain-condition-occurs
+- https://stackoverflow.com/questions/876239/how-to-redirect-and-append-both-stdout-and-stderr-to-a-file-with-bash
 
 ### StackExchange
-https://unix.stackexchange.com/questions/129143/what-is-the-purpose-of-bashrc-and-how-does-it-work
+- https://unix.stackexchange.com/questions/129143/what-is-the-purpose-of-bashrc-and-how-does-it-work
 
 ### GitLab
 
 
 #### Repositories
 
-https://gitlab.com/gitlab-com/www-gitlab-com
+- https://gitlab.com/gitlab-com/www-gitlab-com
 
 #### Docs
 
-https://docs.gitlab.com/ee/gitlab-basics/start-using-git.html
-https://docs.gitlab.com/ee/install/installation.html
-https://docs.gitlab.com/ee/ssh/
+- https://docs.gitlab.com/ee/gitlab-basics/start-using-git.html
+- https://docs.gitlab.com/ee/install/installation.html
+- https://docs.gitlab.com/ee/ssh/
 
 ## Communities
 
 ### DEV
 
-https://dev.to/rpalo/bash-if-statements-beginner-to-advanced-25e6
-https://dev.to/maxpou/git-cheat-sheet-advanced-3a17
+- https://dev.to/rpalo/bash-if-statements-beginner-to-advanced-25e6
+- https://dev.to/maxpou/git-cheat-sheet-advanced-3a17
 
 ### freeCodeCamp
 
-https://www.freecodecamp.org/news/linux-command-line-bash-tutorial/
+- https://www.freecodecamp.org/news/linux-command-line-bash-tutorial/
 
 
 ## Technical Documentation
 
-### Node.js
+### CircleCI
+- https://circleci.com/docs/2.0/ssh-access-jobs/
 
-https://nodejs.org/en/download/package-manager/
-https://nodejs.org/api/cli.html
-
-### k8s
-https://kubernetes.io/docs/tutorials/stateless-application/guestbook/
-
-
-### Vue.js
-
-https://cli.vuejs.org/guide/installation.html
-https://cli.vuejs.org/guide/prototyping.html
+### Ember
+- https://cli.emberjs.com/release/basic-use/cli-commands/
 
 ### ffmpeg
-https://ffmpeg.org/ffmpeg.html
+- https://ffmpeg.org/ffmpeg.html
 
-### MySQL
+### GitHub CLI (gh)
 
-https://dev.mysql.com/doc/refman/8.0/en/invoking-programs.html
-https://dev.mysql.com/doc/refman/8.0/en/backup-policy.html
-https://dev.mysql.com/doc/refman/8.0/en/mysqldump-sql-format.html
-
-### Kali
-
-https://www.kali.org/docs/containers/kalilinux-lxc-images/
-https://www.kali.org/docs/containers/installing-docker-on-kali/
-https://www.kali.org/docs/installation/network-pxe/
+- https://cli.github.com/manual/gh_issue
+- https://cli.github.com/manual/gh_auth
 
 ### Google Cloud
 
-https://cloud.google.com/sdk/docs/downloads-snap
-https://cloud.google.com/sdk/docs/downloads-interactive
-https://cloud.google.com/pubsub/docs/quickstart-cli
+- https://cloud.google.com/sdk/docs/downloads-snap
+- https://cloud.google.com/sdk/docs/downloads-interactive
+- https://cloud.google.com/pubsub/docs/quickstart-cli
+
+### Homebrew
+- https://brew.sh/
+
+### k8s
+- https://kubernetes.io/docs/tutorials/stateless-application/guestbook/
+
+
+### Kali
+
+- https://www.kali.org/docs/containers/kalilinux-lxc-images/
+- https://www.kali.org/docs/containers/installing-docker-on-kali/
+- https://www.kali.org/docs/installation/network-pxe/
+
+
+### Jenkins
+- https://www.jenkins.io/doc/book/installing/docker/
+
+### Jest
+- https://jestjs.io/docs/en/getting-started
+
+### Node.js
+
+- https://nodejs.org/en/download/package-manager/
+- https://nodejs.org/api/cli.html
+
+### NPM
+- https://docs.npmjs.com/cli/v6/commands/npm-audit
+
+### oclif
+- https://oclif.io/docs/single
+
+### Vue.js
+
+- https://cli.vuejs.org/guide/installation.html
+- https://cli.vuejs.org/guide/prototyping.html
 
 ### Mozilla
 
-https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Command_line
-https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Introducing_complete_toolchain
+- https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Command_line
+- https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Introducing_complete_toolchain
+
+
+### MySQL
+
+- https://dev.mysql.com/doc/refman/8.0/en/invoking-programs.html
+- https://dev.mysql.com/doc/refman/8.0/en/backup-policy.html
+- https://dev.mysql.com/doc/refman/8.0/en/mysqldump-sql-format.html
+
+### Netlify
+- https://docs.netlify.com/cli/get-started/
+
+### nGinx
+- https://docs.nginx.com/nginx/admin-guide/installing-nginx/installing-nginx-open-source/
+### Pip
+
+- https://pip.pypa.io/en/stable/reference/pip_search/
+
+### Svelte
+- https://svelte.dev/blog/the-easiest-way-to-get-started
+- https://svelte.dev/
+
+### Twilio
+
+- https://www.twilio.com/blog/how-to-build-a-cli-with-node-js
+### Webpack
+https://webpack.js.org/api/cli/
