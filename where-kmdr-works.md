@@ -6,11 +6,12 @@ Want to know what Kmdr Browser Extension does in the wild? Check out these links
 
 ### GitHub
 
-
 #### Repositories
 
 - https://github.com/kommandr/kmdr-cli
 - https://github.com/nvm-sh/nvm
+
+#### Issues
 
 #### Gists
 
@@ -21,18 +22,7 @@ Want to know what Kmdr Browser Extension does in the wild? Check out these links
 - https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
 - https://docs.github.com/en/free-pro-team@latest/packages/guides/configuring-docker-for-use-with-github-packages
 
-## Q&A
-
-### StackOverflow
-
-- https://stackoverflow.com/questions/1378274/in-a-bash-script-how-can-i-exit-the-entire-script-if-a-certain-condition-occurs
-- https://stackoverflow.com/questions/876239/how-to-redirect-and-append-both-stdout-and-stderr-to-a-file-with-bash
-
-### StackExchange
-- https://unix.stackexchange.com/questions/129143/what-is-the-purpose-of-bashrc-and-how-does-it-work
-
 ### GitLab
-
 
 #### Repositories
 
@@ -43,6 +33,31 @@ Want to know what Kmdr Browser Extension does in the wild? Check out these links
 - https://docs.gitlab.com/ee/gitlab-basics/start-using-git.html
 - https://docs.gitlab.com/ee/install/installation.html
 - https://docs.gitlab.com/ee/ssh/
+
+## Q&A / Wikis
+
+### StackOverflow
+
+- https://stackoverflow.com/questions/1378274/in-a-bash-script-how-can-i-exit-the-entire-script-if-a-certain-condition-occurs
+- https://stackoverflow.com/questions/876239/how-to-redirect-and-append-both-stdout-and-stderr-to-a-file-with-bash
+
+### StackExchange
+- https://unix.stackexchange.com/questions/129143/what-is-the-purpose-of-bashrc-and-how-does-it-work
+
+
+### Wikipedia
+- https://en.wikipedia.org/wiki/Chmod
+
+## Online Learning/Courses
+
+### Codecademy
+- https://www.codecademy.com/learn/learn-the-command-line/modules/learn-the-command-line-redirection
+
+### HowtoForge
+- https://www.howtoforge.com/how-to-install-discourse-forum-with-docker-on-centos-8/
+
+### The Bash Guide
+- https://guide.bash.academy/commands/ 
 
 ## Communities
 
@@ -55,14 +70,33 @@ Want to know what Kmdr Browser Extension does in the wild? Check out these links
 
 - https://www.freecodecamp.org/news/linux-command-line-bash-tutorial/
 
+## Cheatsheet
+### TLDR
+- https://tldr.ostera.io/rm 
 
 ## Technical Documentation
+### Ansible
+- https://docs.ansible.com/ansible/latest/user_guide/intro_getting_started.html
+- https://docs.ansible.com/ansible/latest/installation_guide/intro_installation.html
 
+### Azure
+- https://docs.microsoft.com/en-us/azure/app-service/tutorial-nodejs-mongodb-app?pivots=platform-linux
+- https://docs.microsoft.com/en-us/azure/app-service/app-service-web-tutorial-connect-msi
+- https://docs.microsoft.com/en-us/cli/azure/run-azure-cli-docker
+- 
 ### CircleCI
 - https://circleci.com/docs/2.0/ssh-access-jobs/
 
+### Docker
+- https://docs.docker.com/engine/install/centos/
+- https://docs.docker.com/compose/install/
+- https://docs.docker.com/engine/reference/commandline/build/
+
 ### Ember
 - https://cli.emberjs.com/release/basic-use/cli-commands/
+
+### Fedora
+- https://docs.fedoraproject.org/en-US/quick-docs/dnf-system-upgrade/
 
 ### ffmpeg
 - https://ffmpeg.org/ffmpeg.html
@@ -98,6 +132,13 @@ Want to know what Kmdr Browser Extension does in the wild? Check out these links
 ### Jest
 - https://jestjs.io/docs/en/getting-started
 
+### Learn Enough
+- https://www.learnenough.com/command-line-tutorial/basics
+
+
+### MongoDB
+- https://docs.mongodb.com/manual/mongo/
+
 ### Node.js
 
 - https://nodejs.org/en/download/package-manager/
@@ -131,6 +172,10 @@ Want to know what Kmdr Browser Extension does in the wild? Check out these links
 
 ### nGinx
 - https://docs.nginx.com/nginx/admin-guide/installing-nginx/installing-nginx-open-source/
+
+### Operator SDK
+- https://sdk.operatorframework.io/docs/installation/
+
 ### Pip
 
 - https://pip.pypa.io/en/stable/reference/pip_search/
@@ -144,3 +189,9 @@ Want to know what Kmdr Browser Extension does in the wild? Check out these links
 - https://www.twilio.com/blog/how-to-build-a-cli-with-node-js
 ### Webpack
 https://webpack.js.org/api/cli/
+
+## Blog Posts
+
+- https://flaviocopes.com/git-secrets/
+- https://www.tecmint.com/display-command-output-or-file-contents-in-column-format/
+
