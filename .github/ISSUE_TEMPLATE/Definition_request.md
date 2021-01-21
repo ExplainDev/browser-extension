@@ -1,7 +1,7 @@
 ---
 name: Definition request
 about: For missing or incorrect definitions.
-title: ''
+title: '{{Program}} needs review'
 labels: ''
 assignees: ''
 
