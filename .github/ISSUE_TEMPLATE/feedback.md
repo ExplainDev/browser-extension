@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 **Is your feeback related to a specific website?**
-Enter the URL and enter your feedback in free-form.
+Enter the URL and enter your experience and feedback in free-form.
 
 **Is your feedback related to a problem? Please describe.**
 A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
