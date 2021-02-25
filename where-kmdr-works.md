@@ -21,6 +21,7 @@ Want to know what Kmdr Browser Extension does in the wild? Check out these links
 
 - https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
 - https://docs.github.com/en/free-pro-team@latest/packages/guides/configuring-docker-for-use-with-github-packages
+- https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/configuring-a-remote-for-a-fork
 
 ### GitLab
 
@@ -50,6 +51,12 @@ Want to know what Kmdr Browser Extension does in the wild? Check out these links
 
 ## Online Learning/Courses
 
+### Resources to learn Git
+- https://guides.github.com/introduction/git-handbook/
+
+### Resources to learn Docker
+- [A Docker tutorial for Beginners](https://docker-curriculum.com/)
+
 ### Codecademy
 - https://www.codecademy.com/learn/learn-the-command-line/modules/learn-the-command-line-redirection
 
@@ -71,10 +78,12 @@ Want to know what Kmdr Browser Extension does in the wild? Check out these links
 - https://www.freecodecamp.org/news/linux-command-line-bash-tutorial/
 
 ## Cheatsheet
+
 ### TLDR
 - https://tldr.ostera.io/rm 
 
 ## Technical Documentation
+
 ### Ansible
 - https://docs.ansible.com/ansible/latest/user_guide/intro_getting_started.html
 - https://docs.ansible.com/ansible/latest/installation_guide/intro_installation.html
