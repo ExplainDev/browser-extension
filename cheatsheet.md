@@ -1,3 +1,18 @@
+# CSS
+
+```css
+body {
+  font-family: Arial;
+}
+```
+
+```css
+color: white;
+text-decoration: underline;
+background-color: blue;
+position: relative;
+```
+
 # Get command explanations from kmdr.sh
 
 ```bash
@@ -23,18 +38,12 @@ tar -xvzf file.tgz -C directory/
 tar -x -v -z -f file.tgz
 tar --extract --verbose --gzip --file file.tgz
 
-# Program npm
-
-npm list
-npm uninstall
-
 # Program git
 
 git commit --all --message "Message"
 git commit -am "Message"
 git reset --hard
 git clone git@github.com:facebook/react.git
-git clone -b next https://github.com/ediardo/kmdr-ast
 git clone -q https://opendev.org/openstack/devstack
 
 # Program aws
@@ -69,10 +78,7 @@ find . -P -L -H
 # Program ps
 ps -ef
 
-# Program minikube
-minikube start --vm-driver=none --image-mirror-country='cn'
-
-# echo
+# Program echo
 echo 		 hello
 echo "			hello"
 
@@ -81,7 +87,6 @@ iptables -t nat -A Clash -d 192.168.0.0/16 -j RETURN
 
 # Rsync
 
-rsync --stats -PSvahHAXx --log-file=$LOG --exclude-from=$EXCLUDE --link-dest=$DEST_ORIG $SOURCE $DEST_NEXT
 rsync -avzh /source/path /destination/path/
 
 # npm
