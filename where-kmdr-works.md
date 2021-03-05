@@ -49,7 +49,7 @@ Want to know what Kmdr Browser Extension does in the wild? Check out these links
 ### Wikipedia
 - https://en.wikipedia.org/wiki/Chmod
 
-## Online Learning/Courses
+## Learning/Courses
 
 ### Resources to learn Git
 - https://guides.github.com/introduction/git-handbook/
@@ -57,14 +57,10 @@ Want to know what Kmdr Browser Extension does in the wild? Check out these links
 ### Resources to learn Docker
 - [A Docker tutorial for Beginners](https://docker-curriculum.com/)
 
-### Codecademy
-- https://www.codecademy.com/learn/learn-the-command-line/modules/learn-the-command-line-redirection
-
-### HowtoForge
-- https://www.howtoforge.com/how-to-install-discourse-forum-with-docker-on-centos-8/
-
-### The Bash Guide
-- https://guide.bash.academy/commands/ 
+## Resources to learn Bash
+- [Codecademy](https://www.codecademy.com/learn/learn-the-command-line/modules/learn-the-command-line-redirection)
+- [BashGuide](https://mywiki.wooledge.org/BashGuide)
+- [The Bash Guide](https://guide.bash.academy/)
 
 ## Communities
 
@@ -76,6 +72,8 @@ Want to know what Kmdr Browser Extension does in the wild? Check out these links
 ### freeCodeCamp
 
 - https://www.freecodecamp.org/news/linux-command-line-bash-tutorial/
+### HowtoForge
+-https://www.howtoforge.com/how-to-install-discourse-forum-with-docker-on-centos-8/
 
 ## Cheatsheet
 
