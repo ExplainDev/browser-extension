@@ -57,7 +57,7 @@ Want to know what Kmdr Browser Extension does in the wild? Check out these links
 ### Resources to learn Docker
 - [A Docker tutorial for Beginners](https://docker-curriculum.com/)
 
-## Resources to learn Bash
+### Resources to learn Bash
 - [Codecademy](https://www.codecademy.com/learn/learn-the-command-line/modules/learn-the-command-line-redirection)
 - [BashGuide](https://mywiki.wooledge.org/BashGuide)
 - [The Bash Guide](https://guide.bash.academy/)
