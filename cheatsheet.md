@@ -35,6 +35,18 @@ background-color: blue;
 position: relative;
 ```
 
+
+### Example 3
+```css
+/*
+ Shared styles
+*/
+
+footer p {
+	font: 100% Rockwell, Arvo, serif;
+}
+```
+
 # Get command explanations from kmdr.sh
 
 ```bash
