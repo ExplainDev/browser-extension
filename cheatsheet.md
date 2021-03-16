@@ -1,11 +1,33 @@
 # CSS
 
+### Example 0
+
+```css
+* {
+  padding-top: 1em;
+}
+
+.class {
+  display: inline-flex;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  position: relative;
+  right: 0;
+  text-align: right;
+  top: 0;
+  z-index: 99999999;
+}
+```
+
+### Example 1
 ```css
 body {
   font-family: Arial;
 }
 ```
 
+### Example 2
 ```css
 color: white;
 text-decoration: underline;
