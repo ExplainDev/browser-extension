@@ -62,7 +62,7 @@ footer p {
   <li>item</li>
   <li>item</li>
   <li>item</li>
-</ul
+</ul>
 ```
 
 ### Example 2
@@ -74,7 +74,7 @@ footer p {
     <title>My test page</title>
   </head>
   <body>
-    <p>This is my page</p>
+    <p class="c">This is my page</p>
   </body>
 </html>
 ```
