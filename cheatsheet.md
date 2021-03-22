@@ -47,7 +47,41 @@ footer p {
 }
 ```
 
-# Get command explanations from kmdr.sh
+# HTML
+
+### Exmaple 0
+
+```html
+<div>text</div>
+```
+
+### Example 1
+```html
+<!-- comment -->
+<ul>
+  <li>item</li>
+  <li>item</li>
+  <li>item</li>
+</ul
+```
+
+### Example 2
+```html
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>My test page</title>
+  </head>
+  <body>
+    <p>This is my page</p>
+  </body>
+</html>
+```
+
+
+
+# Bash
 
 ```bash
 ls -al
