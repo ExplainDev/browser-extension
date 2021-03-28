@@ -16,6 +16,7 @@
   right: 0;
   text-align: right;
   top: 0;
+  color: SandyBrown;
   z-index: 99999999;
 }
 ```
@@ -24,6 +25,7 @@
 ```css
 body {
   font-family: Arial;
+  color: magenta;
 }
 ```
 
