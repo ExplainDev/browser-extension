@@ -3,6 +3,7 @@
 ### Example 0
 
 ```css
+/* one line comment */
 * {
   padding-top: 1em;
 }
