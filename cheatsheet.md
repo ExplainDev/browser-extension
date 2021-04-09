@@ -3,15 +3,9 @@
 ### Example 0
 
 ```css
-/* one line comment */
-* {
-  padding-top: 1em;
-}
-
 .class {
   display: inline-flex !important;
   list-style: none;
-  margin: 0;
   padding: 0;
   position: relative;
   right: 0;
