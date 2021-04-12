@@ -3,9 +3,9 @@
 ```css
 div {
   color: Turquoise;
-  border-bottom-color: Green;
+  background-attachment: fixed;
   font-size: 16em;
-  line-height: 1em;
+  font-size-adjust: 2;
   z-index: 100;
 }
 ```
