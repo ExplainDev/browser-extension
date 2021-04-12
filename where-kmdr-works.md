@@ -2,6 +2,31 @@
 
 Want to know what Kmdr Browser Extension does in the wild? Check out these links below
 
+## Eddie's pick
+
+### Bash
+- https://dev.to/maxpou/git-cheat-sheet-advanced-3a17 
+- https://docs.docker.com/engine/install/debian/ 
+- https://nodejs.org/en/download/package-manager/
+- https://docs.microsoft.com/en-us/cli/azure/install-azure-cli-linux?pivots=apt
+- https://stackoverflow.com/questions/876239/how-to-redirect-and-append-both-stdout-and-stderr-to-a-file-with-bash
+
+### CSS
+
+- https://developer.mozilla.org/en-US/docs/Web/CSS/color (CSS)
+- https://en.wikipedia.org/wiki/CSS
+- https://www.codecademy.com/learn/learn-css/modules/learn-css-selectors-visual-rules/cheatsheet
+- https://bulma.io/documentation/overview/start/
+- https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Positioning/Understanding_z_index/The_stacking_context
+
+### HTML
+
+- https://chartscss.org/docs/installation/
+- https://www.codecademy.com/learn/learn-html/modules/learn-html-elements/cheatsheet
+- https://getbootstrap.com/docs/4.0/utilities/flex/
+- https://github.com/gendx/html-cheat-sheet
+- https://stackoverflow.com/questions/44859128/how-to-create-this-html-table
+
 ## Version Control
 
 ### GitHub
