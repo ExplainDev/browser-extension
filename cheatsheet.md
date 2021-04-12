@@ -3,7 +3,7 @@
 ```css
 div {
   color: Turquoise;
-  background-color: "Basket Ball Orange";
+  border-bottom-color: Green;
   font-size: 16em;
   line-height: 1em;
   z-index: 100;
