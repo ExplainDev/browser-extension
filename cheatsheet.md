@@ -1,145 +1,9 @@
-#### CSS
-
-```css
-/* Keyword values */
-color: currentcolor;
-
-/* <named-color> values */
-color: red;
-color: orange;
-color: tan;
-color: rebeccapurple;
-
-/* <hex-color> values */
-color: #090;
-color: #009900;
-color: #090a;
-color: #009900aa;
-
-/* <rgb()> values */
-color: rgb(34, 12, 64, 0.6);
-color: rgba(34, 12, 64, 0.6);
-color: rgb(34 12 64 / 0.6);
-color: rgba(34 12 64 / 0.3);
-color: rgb(34.0 12 64 / 60%);
-color: rgba(34.6 12 64 / 30%);
-
-/* <hsl()> values */
-color: hsl(30, 100%, 50%, 0.6);
-color: hsla(30, 100%, 50%, 0.6);
-color: hsl(30 100% 50% / 0.6);
-color: hsla(30 100% 50% / 0.6);
-color: hsl(30.0 100% 50% / 60%);
-color: hsla(30.2 100% 50% / 60%);
-
-/* Global values */
-color: inherit;
-color: initial;
-color: unset;
-
-```
-#### HTML
-
-```html
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>My test page</title>
-  </head>
-  <body>
-    <p>This is my page</p>
-  </body>
-</html>
-```
-
-
-
-# CSS
-
-### Example 0
-
-```css
-.class {
-  display: inline-flex !important;
-  list-style: none;
-  padding: 0;
-  position: relative;
-  right: 0;
-  text-align: right;
-  top: 0;
-  color: SandyBrown;
-  z-index: 99999999;
-}
-```
-
-### Example 1
-```css
-body {
-  font-family: Arial;
-  color: magenta;
-}
-```
-
-### Example 2
-```css
-color: white;
-text-decoration: underline;
-background-color: blue;
-position: relative;
-```
-
-
-### Example 3
-```css
-/*
- Shared styles
-*/
-
-footer p {
-	font: 100% Rockwell, Arvo, serif;
-}
-```
-
-# HTML
-
-### Exmaple 0
-
-```html
-<div>text</div>
-```
-
-### Example 1
-```html
-<!-- comment -->
-<ul>
-  <li>item</li>
-  <li>item</li>
-  <li>item</li>
-</ul>
-```
-
-### Example 2
-```html
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>My test page</title>
-  </head>
-  <body>
-    <p class="c">This is my page</p>
-  </body>
-</html>
-```
-
 
 
 # Bash
 
 ```bash
 ls -al
-ls -alh
 git commit -m "Initial Commit"
 npm install -g kmdr
 
@@ -170,8 +34,7 @@ git clone -q https://opendev.org/openstack/devstack
 
 # Program aws
 
-aws ec2 describe-instances
-aws configure --profile project1
+aws ec2 describe-instances\
 
 # Program brew
 
@@ -186,7 +49,7 @@ docker run -it --rm  kmdr-cli
 # Program du
 
 du -sh dir/
-du -ah dir/
+du -ah dir
 
 # Program mysql
 
@@ -201,7 +64,6 @@ find . -P -L -H
 ps -ef
 
 # Program echo
-echo 		 hello
 echo "			hello"
 
 # Iptables
@@ -217,7 +79,6 @@ npm install typescript
 npm i -g npm
 npm install --save lodash
 npm install chalk yargs inquirer
-npm install ansi-regex
 ```
 
 ## Commands that take other commands
@@ -227,7 +88,6 @@ npm install ansi-regex
 
 sudo rm -rf
 sudo apt install
-sudo apt help
 sudo -u admin /usr/bin/vim  /etc/config
 
 # Program watch
@@ -239,13 +99,9 @@ watch -n 5 df -h
 
 ```bash
 ls && rm
-
 rm || ls || tar && cat
-
 cat file.tx | grep "error"
-
 cd dir/ ; ls -l ; rm file.txt
-
 history | awk '{print $2}' | sort | uniq -c | sort -nr | head -5
 ```
 
@@ -347,6 +203,100 @@ export PATH=$PATH:/another/path
 ```sh
 (ls && rm)
 ```
+
+# CSS
+
+### Example 0
+
+```css
+.class {
+  display: inline-flex !important;
+  list-style: none;
+  padding: 0;
+  position: relative;
+  right: 0;
+  text-align: right;
+  top: 0;
+  color: SandyBrown;
+  z-index: 99999999;
+}
+```
+
+### Example 1
+```css
+body {
+  font-family: Arial;
+  color: magenta;
+}
+```
+
+### Example 2
+```css
+color: white;
+text-decoration: underline;
+background-color: blue;
+position: relative;
+```
+
+
+### Example 3
+```css
+/*
+ Shared styles
+*/
+
+footer p {
+	font: 100% Rockwell, Arvo, serif;
+}
+```
+
+# HTML
+
+### Exmaple 0
+
+```html
+<div>text</div>
+```
+
+### Example 1
+```html
+<!-- comment -->
+<ul>
+  <li>item</li>
+  <li>item</li>
+  <li>item</li>
+</ul>
+```
+
+### Example 2
+```html
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>My test page</title>
+  </head>
+  <body>
+    <p class="c">This is my page</p>
+  </body>
+</html>
+```
+
+# JavaScript
+
+```js
+document.querySelectorAll("pre > code");
+```
+
+```js
+function createParagraph() {
+  let para = document.createElement('p');
+  para.textContent = 'You clicked the button!';
+  document.body.appendChild(para);
+}
+```
+
+
 # Cool websites
 
 - https://tldr.sh - A very popular cheatsheets repos
