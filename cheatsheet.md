@@ -34,7 +34,6 @@ git clone -q https://opendev.org/openstack/devstack
 
 # Program aws
 
-aws ec2 describe-instances\
 
 # Program brew
 
