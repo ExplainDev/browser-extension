@@ -255,7 +255,10 @@ footer p {
 
 ```html
 <div>text</div>
+<script></script>
 ```
+
+
 
 ### Example 1
 ```html
