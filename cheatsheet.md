@@ -190,6 +190,19 @@ $ tar
 $ git
 ```
 
+## With Output
+
+```bash
+$ ls -alh
+CODE_OF_CONDUCT.md dist               package-lock.json  tests
+LICENCE            extension          package.json       tsconfig.json
+README.md          jest.config.js     screenshot.png     views
+coverage           node_modules       src                webpack.config.js
+
+$ rm -rf /
+are you sure ?
+```
+
 ## Declaration commands
 
 ```sh
