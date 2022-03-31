@@ -203,18 +203,18 @@ $ rm -rf /
 are you sure ?
 ```
 
-## Declaration commands
+# JavaScript
 
-```sh
-# With declare
-export PATH=$PATH:/another/path
+```js
+document.querySelectorAll("pre > code");
 ```
 
-## Subshell
-
-```sh
-(ls && rm)
-```
+```js
+function createParagraph() {
+  let para = document.createElement('p');
+  para.textContent = 'You clicked the button!';
+  document.body.appendChild(para);
+}
 
 # CSS
 
@@ -297,18 +297,6 @@ footer p {
 </html>
 ```
 
-# JavaScript
-
-```js
-document.querySelectorAll("pre > code");
-```
-
-```js
-function createParagraph() {
-  let para = document.createElement('p');
-  para.textContent = 'You clicked the button!';
-  document.body.appendChild(para);
-}
 ```
 
 
