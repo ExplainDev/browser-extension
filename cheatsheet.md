@@ -215,6 +215,7 @@ function createParagraph() {
   para.textContent = 'You clicked the button!';
   document.body.appendChild(para);
 }
+```
 
 # CSS
 
@@ -243,6 +244,7 @@ body {
 ```
 
 ### Example 2
+
 ```css
 color: white;
 text-decoration: underline;
@@ -252,6 +254,7 @@ position: relative;
 
 
 ### Example 3
+
 ```css
 /*
  Shared styles
@@ -297,7 +300,6 @@ footer p {
 </html>
 ```
 
-```
 
 
 # Cool websites
